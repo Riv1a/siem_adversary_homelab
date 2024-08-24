@@ -93,3 +93,8 @@ Create a Kali Linux VM and install MITRE Caldera with these commands:
 </br>Add Windows 10 and Ubuntu Server 22.04 as Agents over MITRE Caldera.
 </br>Commands to do that are in the “Agent” section from MITRE Caldera Dashboard. 
 </br>Check TTP’s and test attack pattern on the two target systems as you see fit.
+
+### Full Construction:
+<div>
+  <img src="/siem_adversary_emulation_homelab/construction.png" alt="Full Construction">
+</div>
