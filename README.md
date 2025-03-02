@@ -25,10 +25,10 @@ This Wazuh Lab aimed to establish a controlled environment for simulating and de
 
 ### Step 1:
 Specifications:
-CPU: 4 cores
-RAM: 8GB+ 
-HDD: 50+ GB
-OS: Ubuntu 22.04 LTS
+</br>CPU: 4 cores
+</br>RAM: 8GB+ 
+</br>HDD: 50+ GB
+</br>OS: Ubuntu 22.04 LTS
 
 Download Ubuntu Server and after installation put in this command to install Wazuh Manager:
 
@@ -37,10 +37,10 @@ Download Ubuntu Server and after installation put in this command to install Waz
 
 ### Step 2:
 Specifications:
-CPU: 2 cores
-RAM: 4GB
-HDD: 50+ GB
-OS: Windows 10 Pro
+</br>CPU: 2 cores
+</br>RAM: 4GB
+</br>HDD: 50+ GB
+</br>OS: Windows 10 Pro
 
 Install Win10 and Download Sysmon.
 Download Wazuh Agent and install it with this command:
@@ -52,10 +52,10 @@ Download Wazuh Agent and install it with this command:
 
 ### Step 3:
 Specifications:
-CPU: 2 cores
-RAM: 4GB
-HDD: 50+ GB
-OS: Ubuntu 22.04 Server
+</br>CPU: 2 cores
+</br>RAM: 4GB
+</br>HDD: 50+ GB
+</br>OS: Ubuntu 22.04 Server
 
 Install the GPG key:
 </br>curl -s https://packages.wazuh.com/key/GPG-KEY-WAZUH | gpg --no-default-keyring --keyring gnupg-ring:/usr/share/keyrings/wazuh.gpg --import && chmod 644 /usr/share/keyrings/wazuh.gpg
@@ -78,10 +78,10 @@ Install the GPG key:
 
 ### Step 4:
 Specifications:
-CPU: 4 cores
-RAM: 8GB
-HDD: 50+ GB
-OS: Kali Linux 2024.2 
+</br>CPU: 4 cores
+</br>RAM: 8GB
+</br>HDD: 50+ GB
+</br>OS: Kali Linux 2024.2 
 
 Create a Kali Linux VM and install MITRE Caldera with these commands:
 
